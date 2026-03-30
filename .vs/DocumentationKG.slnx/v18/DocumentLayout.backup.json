@@ -1,0 +1,1616 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#Projects\\DocumentationKG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\c#projects\\documentationkg\\infrastructure\\persistence\\neo4jcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\neo4jcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\querycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\findrelated\\findrelatedqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\findrelated\\findrelatedqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\commands\\processdocument\\processdocumentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\commands\\processdocument\\processdocumentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\extractiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\extractiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\relationshipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\relationshipdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\controllers\\documentingestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\documentingestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\c#projects\\documentationkg\\infrastructure\\persistence\\repositories\\neo4jgraphrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\neo4jgraphrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\getdocumentstatus\\getdocumentstatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\getdocumentstatus\\getdocumentstatusqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\middleware\\apiexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\middleware\\apiexceptionfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\getdocumentstatus\\getdocumentstatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\getdocumentstatus\\getdocumentstatusquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\documentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\documentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\c#projects\\documentationkg\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\c#projects\\documentationkg\\infrastructure\\semantickernel\\semantickernelentityextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\semantickernel\\semantickernelentityextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\interfaces\\ientityextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ientityextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\valueobjects\\extractionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\extractionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\extractionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\extractionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\valueobjects\\graphqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\graphqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\searchbyentity\\searchbyentityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\searchbyentity\\searchbyentityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\getentitystatistics\\getentitystatisticsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\getentitystatistics\\getentitystatisticsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\interfaces\\ineo4jcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ineo4jcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\c#projects\\documentationkg\\infrastructure\\semantickernel\\kernelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\semantickernel\\kernelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\c#projects\\documentationkg\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\extractednode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\extractednode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\documentingestionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\documentingestionresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\extractionvalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\extractionvalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\extractionmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\extractionmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\nodedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\nodedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\c#projects\\documentationkg\\infrastructure\\persistence\\neo4jsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\neo4jsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\getdocumenthistory\\getdocumenthistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\getdocumenthistory\\getdocumenthistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\documenthistoryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\documenthistoryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\getdocumenthistory\\getdocumenthistoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\getdocumenthistory\\getdocumenthistoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\interfaces\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\searchbyentity\\searchbyentityqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\searchbyentity\\searchbyentityqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\mappings\\graphmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\graphmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\graphqueryresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\graphqueryresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\graphqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\graphqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\getdocumenthistory\\getdocumenthistoryqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\getdocumenthistory\\getdocumenthistoryqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\commands\\processdocument\\processdocumentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\commands\\processdocument\\processdocumentcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\interfaces\\igraphrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\igraphrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\exceptions\\applicationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\exceptions\\applicationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\documents\\queries\\findrelated\\findrelatedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\documents\\queries\\findrelated\\findrelatedquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\extensions\\apikeyoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\extensions\\apikeyoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\c#projects\\documentationkg\\infrastructure\\persistence\\repositories\\baseneo4jrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\repositories\\baseneo4jrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\interfaces\\iasynccursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iasynccursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\valueobjects\\documentreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\valueobjects\\documentreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\extractedrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\extractedrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|c:\\c#projects\\documentationkg\\infrastructure\\persistence\\neo4jloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5872AEB3-BAA3-FE31-B0EB-0FB6DBEDCF83}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\neo4jloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\documentreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\documentreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\documentreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\documentreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\graphnavigationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\graphnavigationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\graphpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\graphpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\extraction\\extractedrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\extraction\\extractedrelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\entitynode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\entitynode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\batchsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\batchsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\batchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\batchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\documentversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\documentversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\topentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\topentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\entitystatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\entitystatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\documentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\documentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\batchmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\batchmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\batchdocumentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\batchdocumentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\extensions\\healthcheckresponsewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\extensions\\healthcheckresponsewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\batchuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\batchuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\batchingestionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\batchingestionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\documentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\documentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\uploaddocumentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\uploaddocumentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\pagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\pagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\dtos\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\dtos\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|c:\\c#projects\\documentationkg\\application\\common\\interfaces\\idatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\idatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\enums\\relationshiptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\relationshiptypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\enums\\entitytypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\entitytypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\c#projects\\documentationkg\\domain\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\documentingestionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\documentingestionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\c#projects\\documentationkg\\webapi\\models\\webhookingestionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\webhookingestionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueryController.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Controllers\\QueryController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\QueryController.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Controllers\\QueryController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\QueryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:08:07.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExtractionData.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractionData.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ExtractionData.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractionData.cs",
+              "RelativeToolTip": "Domain\\Entities\\ExtractionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:26:42.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T20:39:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcessDocumentCommandHandler.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Commands\\ProcessDocument\\ProcessDocumentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Commands\\ProcessDocument\\ProcessDocumentCommandHandler.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Commands\\ProcessDocument\\ProcessDocumentCommandHandler.cs",
+              "RelativeToolTip": "Application\\Documents\\Commands\\ProcessDocument\\ProcessDocumentCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T21:54:15.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindRelatedQueryHandler.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\FindRelated\\FindRelatedQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\FindRelated\\FindRelatedQueryHandler.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\FindRelated\\FindRelatedQueryHandler.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\FindRelated\\FindRelatedQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:31:30.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "WebAPI\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:27:25.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiExceptionFilterAttribute.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Middleware\\ApiExceptionFilterAttribute.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Middleware\\ApiExceptionFilterAttribute.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Middleware\\ApiExceptionFilterAttribute.cs",
+              "RelativeToolTip": "WebAPI\\Middleware\\ApiExceptionFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:18:01.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T13:03:38.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:35:36.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T20:14:13.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Neo4jContext.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Neo4jContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Neo4jContext.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Neo4jContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Neo4jContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:57:12.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T18:01:36.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelationshipData.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\RelationshipData.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\RelationshipData.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\RelationshipData.cs",
+              "RelativeToolTip": "Domain\\Entities\\RelationshipData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:27:35.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Document.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\Document.cs",
+              "RelativeToolTip": "Domain\\Entities\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:48:57.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentIngestionController.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Controllers\\DocumentIngestionController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\DocumentIngestionController.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Controllers\\DocumentIngestionController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\DocumentIngestionController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwDUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:24:17.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Neo4jGraphRepository.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Repositories\\Neo4jGraphRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\Neo4jGraphRepository.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Repositories\\Neo4jGraphRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\Neo4jGraphRepository.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAIwDcBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:03:31.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "WebAPI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAnwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:09:01.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetDocumentStatusQuery.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentStatus\\GetDocumentStatusQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\GetDocumentStatus\\GetDocumentStatusQuery.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentStatus\\GetDocumentStatusQuery.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\GetDocumentStatus\\GetDocumentStatusQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:26:07.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T00:05:03.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\Page.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Page.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\Page.cs",
+              "RelativeToolTip": "Domain\\Entities\\Page.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:49:45.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetDocumentStatusQueryHandler.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentStatus\\GetDocumentStatusQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\GetDocumentStatus\\GetDocumentStatusQueryHandler.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentStatus\\GetDocumentStatusQueryHandler.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\GetDocumentStatus\\GetDocumentStatusQueryHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T23:30:14.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DocumentStatusDto.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentStatusDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\DocumentStatusDto.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentStatusDto.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\DocumentStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:02:57.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\nlog.config",
+              "RelativeDocumentMoniker": "WebAPI\\nlog.config",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\nlog.config",
+              "RelativeToolTip": "WebAPI\\nlog.config",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-21T21:55:27.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApiControllerBase.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Controllers\\ApiControllerBase.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ApiControllerBase.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Controllers\\ApiControllerBase.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ApiControllerBase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:03:24.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T20:26:12.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:35:06.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "WebAPI\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:43:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SemanticKernelEntityExtractor.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\SemanticKernel\\SemanticKernelEntityExtractor.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SemanticKernel\\SemanticKernelEntityExtractor.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\SemanticKernel\\SemanticKernelEntityExtractor.cs",
+              "RelativeToolTip": "Infrastructure\\SemanticKernel\\SemanticKernelEntityExtractor.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAlwIoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T20:29:17.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEntityExtractor.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\IEntityExtractor.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IEntityExtractor.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\IEntityExtractor.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IEntityExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T20:31:12.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExtractionResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractionResult.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ExtractionResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractionResult.cs",
+              "RelativeToolTip": "Domain\\Entities\\ExtractionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:28:39.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GraphQueryResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\ValueObjects\\GraphQueryResult.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\GraphQueryResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\ValueObjects\\GraphQueryResult.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\GraphQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:06:17.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ExtractionResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\ValueObjects\\ExtractionResult.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\ExtractionResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\ValueObjects\\ExtractionResult.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\ExtractionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:01:11.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetEntityStatisticsQuery.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetEntityStatistics\\GetEntityStatisticsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\GetEntityStatistics\\GetEntityStatisticsQuery.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetEntityStatistics\\GetEntityStatisticsQuery.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\GetEntityStatistics\\GetEntityStatisticsQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:29:59.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T20:40:16.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Domain\\DependencyInjection.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:36:01.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SearchByEntityQuery.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\SearchByEntity\\SearchByEntityQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\SearchByEntity\\SearchByEntityQuery.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\SearchByEntity\\SearchByEntityQuery.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\SearchByEntity\\SearchByEntityQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:27:24.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\SearchResult.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\SearchResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\SearchResult.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\SearchResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:23:02.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "INeo4jContext.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\INeo4jContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\INeo4jContext.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\INeo4jContext.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\INeo4jContext.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:08:52.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "KernelService.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\SemanticKernel\\KernelService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\SemanticKernel\\KernelService.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\SemanticKernel\\KernelService.cs",
+              "RelativeToolTip": "Infrastructure\\SemanticKernel\\KernelService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T23:57:16.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExtractedNode.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractedNode.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ExtractedNode.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractedNode.cs",
+              "RelativeToolTip": "Domain\\Entities\\ExtractedNode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:53:46.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T20:40:22.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DocumentIngestionResultDto.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentIngestionResultDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\DocumentIngestionResultDto.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentIngestionResultDto.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\DocumentIngestionResultDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:02:14.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ExtractionValidationResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractionValidationResult.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ExtractionValidationResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractionValidationResult.cs",
+              "RelativeToolTip": "Domain\\Entities\\ExtractionValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:30:11.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "NodeData.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\NodeData.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\NodeData.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\NodeData.cs",
+              "RelativeToolTip": "Domain\\Entities\\NodeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:27:09.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ExtractionMetadata.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractionMetadata.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ExtractionMetadata.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractionMetadata.cs",
+              "RelativeToolTip": "Domain\\Entities\\ExtractionMetadata.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T02:28:11.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Neo4jSettings.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Neo4jSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Neo4jSettings.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Neo4jSettings.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Neo4jSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:30:37.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetDocumentHistoryQuery.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQuery.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQuery.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQuery.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:32:32.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DocumentHistoryResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentHistoryResult.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\DocumentHistoryResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentHistoryResult.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\DocumentHistoryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:24:55.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GetDocumentHistoryQueryHandler.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQueryHandler.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQueryHandler.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:35:17.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IDocumentRepository.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\IDocumentRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T23:17:25.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GraphMappingProfile.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Mappings\\GraphMappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\GraphMappingProfile.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Mappings\\GraphMappingProfile.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\GraphMappingProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T01:45:51.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GraphQueryResultDto.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\GraphQueryResultDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\GraphQueryResultDto.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\GraphQueryResultDto.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\GraphQueryResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:30:54.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SearchByEntityQueryHandler.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\SearchByEntity\\SearchByEntityQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\SearchByEntity\\SearchByEntityQueryHandler.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\SearchByEntity\\SearchByEntityQueryHandler.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\SearchByEntity\\SearchByEntityQueryHandler.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:28:20.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GraphQueryResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\GraphQueryResult.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\GraphQueryResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\GraphQueryResult.cs",
+              "RelativeToolTip": "Domain\\Entities\\GraphQueryResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T20:13:11.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GetDocumentHistoryQueryValidator.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQueryValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQueryValidator.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQueryValidator.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\GetDocumentHistory\\GetDocumentHistoryQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:34:06.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ProcessDocumentCommandValidator.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Commands\\ProcessDocument\\ProcessDocumentCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Commands\\ProcessDocument\\ProcessDocumentCommandValidator.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Commands\\ProcessDocument\\ProcessDocumentCommandValidator.cs",
+              "RelativeToolTip": "Application\\Documents\\Commands\\ProcessDocument\\ProcessDocumentCommandValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:08:09.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IGraphRepository.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\IGraphRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IGraphRepository.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\IGraphRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IGraphRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwGAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:04:50.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ApplicationException.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Exceptions\\ApplicationException.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Exceptions\\ApplicationException.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Exceptions\\ApplicationException.cs",
+              "RelativeToolTip": "Application\\Common\\Exceptions\\ApplicationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:29:19.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FindRelatedQuery.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\FindRelated\\FindRelatedQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Documents\\Queries\\FindRelated\\FindRelatedQuery.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Documents\\Queries\\FindRelated\\FindRelatedQuery.cs",
+              "RelativeToolTip": "Application\\Documents\\Queries\\FindRelated\\FindRelatedQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:31:01.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ApiKeyOperationFilter.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Extensions\\ApiKeyOperationFilter.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Extensions\\ApiKeyOperationFilter.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Extensions\\ApiKeyOperationFilter.cs",
+              "RelativeToolTip": "WebAPI\\Extensions\\ApiKeyOperationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:03:43.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BaseNeo4jRepository.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Repositories\\BaseNeo4jRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\BaseNeo4jRepository.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Repositories\\BaseNeo4jRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\BaseNeo4jRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:22:30.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IAsyncCursor.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\IAsyncCursor.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAsyncCursor.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Interfaces\\IAsyncCursor.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IAsyncCursor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:35:29.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DocumentReference.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\ValueObjects\\DocumentReference.cs",
+              "RelativeDocumentMoniker": "Domain\\ValueObjects\\DocumentReference.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\ValueObjects\\DocumentReference.cs",
+              "RelativeToolTip": "Domain\\ValueObjects\\DocumentReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:06:43.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ExtractedRelationship.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractedRelationship.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ExtractedRelationship.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\ExtractedRelationship.cs",
+              "RelativeToolTip": "Domain\\Entities\\ExtractedRelationship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:54:47.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Neo4jLoggerAdapter.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Neo4jLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Neo4jLoggerAdapter.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Infrastructure\\Persistence\\Neo4jLoggerAdapter.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Neo4jLoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:39:57.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DocumentReference.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\DocumentReference.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DocumentReference.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\DocumentReference.cs",
+              "RelativeToolTip": "Domain\\Entities\\DocumentReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:57:17.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DocumentReference.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentReference.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\DocumentReference.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentReference.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\DocumentReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T21:10:37.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GraphNavigationResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\GraphNavigationResult.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\GraphNavigationResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\GraphNavigationResult.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\GraphNavigationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:25:33.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GraphPath.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\GraphPath.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\GraphPath.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\GraphPath.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\GraphPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:25:55.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ExtractedRelationship.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\Extraction\\ExtractedRelationship.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Extraction\\ExtractedRelationship.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\Extraction\\ExtractedRelationship.cs",
+              "RelativeToolTip": "Domain\\Entities\\Extraction\\ExtractedRelationship.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:00:18.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "EntityNode.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\EntityNode.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\EntityNode.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\EntityNode.cs",
+              "RelativeToolTip": "Domain\\Entities\\EntityNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T20:13:57.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:17:01.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Application\\Common\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:37:16.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Exceptions\\ConflictException.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "Application\\Common\\Exceptions\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:37:44.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Application\\Common\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:32:27.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "BatchSummary.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\BatchSummary.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\BatchSummary.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\BatchSummary.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\BatchSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:23:49.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "BatchStatus.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchStatus.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BatchStatus.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchStatus.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BatchStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:10:17.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DocumentVersion.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentVersion.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\DocumentVersion.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentVersion.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\DocumentVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:25:13.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "TopEntity.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\TopEntity.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\TopEntity.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\TopEntity.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\TopEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:24:36.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "EntityStatistics.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\EntityStatistics.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\EntityStatistics.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\EntityStatistics.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\EntityStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:24:10.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "DocumentSummary.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentSummary.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\DocumentSummary.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentSummary.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\DocumentSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:23:26.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "BatchMetadata.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchMetadata.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BatchMetadata.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchMetadata.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BatchMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:13:26.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "BatchDocumentResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchDocumentResult.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BatchDocumentResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchDocumentResult.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BatchDocumentResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T23:12:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "WebAPI\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAMBcwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:48:10.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WebAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:18:30.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ErrorResponse.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T22:11:36.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "HealthCheckResponseWriter.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Extensions\\HealthCheckResponseWriter.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Extensions\\HealthCheckResponseWriter.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Extensions\\HealthCheckResponseWriter.cs",
+              "RelativeToolTip": "WebAPI\\Extensions\\HealthCheckResponseWriter.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:56:15.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "BatchUploadRequest.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchUploadRequest.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BatchUploadRequest.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchUploadRequest.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BatchUploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:45:06.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "BatchIngestionResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchIngestionResult.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\BatchIngestionResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\BatchIngestionResult.cs",
+              "RelativeToolTip": "WebAPI\\Models\\BatchIngestionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:46:03.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "DocumentStatus.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\DocumentStatus.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DocumentStatus.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\DocumentStatus.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DocumentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:46:50.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "UploadDocumentRequest.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\UploadDocumentRequest.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\UploadDocumentRequest.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\UploadDocumentRequest.cs",
+              "RelativeToolTip": "WebAPI\\Models\\UploadDocumentRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:44:01.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "PageDto.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\PageDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\PageDto.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\PageDto.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\PageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:01:53.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "DocumentDto.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DTOs\\DocumentDto.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\DTOs\\DocumentDto.cs",
+              "RelativeToolTip": "Application\\Common\\DTOs\\DocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:01:30.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IDateTime.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Interfaces\\IDateTime.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IDateTime.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Application\\Common\\Interfaces\\IDateTime.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IDateTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T12:27:48.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "RelationshipTypes.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Enums\\RelationshipTypes.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\RelationshipTypes.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Enums\\RelationshipTypes.cs",
+              "RelativeToolTip": "Domain\\Enums\\RelationshipTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:02:36.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "EntityTypes.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Enums\\EntityTypes.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\EntityTypes.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Enums\\EntityTypes.cs",
+              "RelativeToolTip": "Domain\\Enums\\EntityTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:02:04.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\Result.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Result.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\Domain\\Entities\\Result.cs",
+              "RelativeToolTip": "Domain\\Entities\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T00:06:27.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DocumentIngestionResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\DocumentIngestionResult.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DocumentIngestionResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\DocumentIngestionResult.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DocumentIngestionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:45:37.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "WebhookIngestionResult.cs",
+              "DocumentMoniker": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\WebhookIngestionResult.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\WebhookIngestionResult.cs",
+              "ToolTip": "C:\\c#Projects\\DocumentationKG\\WebAPI\\Models\\WebhookIngestionResult.cs",
+              "RelativeToolTip": "WebAPI\\Models\\WebhookIngestionResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T19:46:22.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.DocumentIngestionController.UploadDocument(WebAPI.Models.UploadDocumentRequest,System.Threading.CancellationToken)">
+             <summary>
+             Upload a single document page to be processed and stored in the knowledge graph
+             </summary>
+             <param name="request">Document page content and metadata</param>
+             <param name="cancellationToken">Cancellation token</param>
+             <returns>Processing result with document ID and extraction summary</returns>
+             <remarks>
+             Sample request:
+            
+                 POST /api/v1/DocumentIngestion/document
+                 {
+                     "source": "Confluence",
+                     "externalId": "DOC-123",
+                     "title": "API Authentication Guide",
+                     "content": "The .NET Core application uses OAuth2 for authentication...",
+                     "pageNumber": 1,
+                     "lastModified": "2024-01-15T14:30:00Z",
+                     "metadata": {
+                         "author": "Jane Doe",
+                         "space": "DEV"
+                     }
+                 }
+             </remarks>
+        </member>
+        <member name="M:WebAPI.Controllers.DocumentIngestionController.UploadDocumentBatch(WebAPI.Models.BatchUploadRequest,System.Threading.CancellationToken)">
+            <summary>
+            Upload multiple document pages in a single batch operation
+            </summary>
+            <param name="request">Batch of document pages to process</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Batch processing results with status for each page</returns>
+        </member>
+        <member name="M:WebAPI.Controllers.DocumentIngestionController.GetDocumentStatus(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Get document processing status
+            </summary>
+            <param name="documentId">The document identifier</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Document processing status</returns>
+        </member>
+        <member name="M:WebAPI.Controllers.DocumentIngestionController.GetBatchStatus(System.String)">
+            <summary>
+            Check batch processing status
+            </summary>
+            <param name="batchId">The batch identifier</param>
+            <returns>Batch processing status</returns>
+        </member>
+        <member name="T:WebAPI.Controllers.QueryController">
+            <summary>
+            Handles knowledge graph query operations
+            </summary>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.FindRelated(System.String,System.String,System.String,System.String,System.Int32,System.Boolean,System.Threading.CancellationToken)">
+            <summary>
+            Find related documents based on entity and relationship criteria
+            </summary>
+            <param name="source">The source system (Confluence, Jira, AzureBoard)</param>
+            <param name="entityType">Type of entity to search for (Technology, Person, Project)</param>
+            <param name="entityName">Name of the entity</param>
+            <param name="relationship">Optional relationship type to filter by</param>
+            <param name="depth">Graph traversal depth (default: 2, max: 5)</param>
+            <param name="includeDocuments">Include document details in results</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Graph of related documents and entities</returns>
+            <remarks>
+            Sample request:
+            
+                GET /api/v1/Query/related?source=Confluence&amp;entityType=Technology&amp;entityName=.NET&amp;depth=2
+            
+            Returns a graph showing all entities related to .NET and documents that mention them.
+            </remarks>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.SearchByEntity(System.String,System.String,System.String,System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.Int32,System.Int32,System.String,System.Boolean,System.Threading.CancellationToken)">
+            <summary>
+            Search for documents by entity name with advanced filtering
+            </summary>
+            <param name="entityName">Name of the entity to search for (supports partial matching)</param>
+            <param name="entityType">Optional entity type filter</param>
+            <param name="source">Optional source system filter</param>
+            <param name="fromDate">Filter documents modified after this date</param>
+            <param name="toDate">Filter documents modified before this date</param>
+            <param name="page">Page number for pagination (default: 1)</param>
+            <param name="pageSize">Page size for pagination (default: 20, max: 100)</param>
+            <param name="sortBy">Sort field (title, source, lastModified)</param>
+            <param name="sortDescending">Sort descending</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Paginated list of documents containing the entity</returns>
+            <remarks>
+            Sample request:
+            
+                GET /api/v1/Query/search?entityName=authentication&amp;entityType=Concept&amp;source=Confluence&amp;page=1&amp;pageSize=10
+            
+            Returns documents that mention authentication concepts from Confluence.
+            </remarks>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.GetStatistics(System.Threading.CancellationToken)">
+            <summary>
+            Get statistics about entities in the knowledge graph
+            </summary>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Entity statistics including counts by type and most frequent entities</returns>
+            <remarks>
+            Sample request:
+            
+                GET /api/v1/Query/statistics
+            
+            Returns statistics about the knowledge graph including:
+            - Total entities by type
+            - Most frequently mentioned entities
+            - Growth trends
+            </remarks>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.GetDocumentHistory(System.Guid,System.Boolean,System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Get document change history
+            </summary>
+            <param name="documentId">The document identifier</param>
+            <param name="includeExtractions">Include extracted entities in history</param>
+            <param name="page">Page number for pagination</param>
+            <param name="pageSize">Page size for pagination</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Document change history with versions</returns>
+            <remarks>
+            Sample request:
+            
+                GET /api/v1/Query/document/123e4567-e89b-12d3-a456-426614174000/history
+            
+            Returns the change history of a document showing how extracted entities evolved over time.
+            </remarks>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.GetDocuments(System.String,System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.String,System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Get documents by source and date range
+            </summary>
+            <param name="source">Source system filter</param>
+            <param name="fromDate">Start date</param>
+            <param name="toDate">End date</param>
+            <param name="status">Processing status filter</param>
+            <param name="page">Page number</param>
+            <param name="pageSize">Page size</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of documents matching criteria</returns>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.NavigateGraph(System.String,System.Collections.Generic.List{System.String},System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Navigate the graph from a starting entity
+            </summary>
+            <param name="entityId">Starting entity ID</param>
+            <param name="relationshipTypes">Optional relationship types to follow</param>
+            <param name="maxDepth">Maximum traversal depth</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Subgraph starting from the specified entity</returns>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.FindPaths(System.String,System.String,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Find paths between two entities
+            </summary>
+            <param name="fromEntityId">Starting entity ID</param>
+            <param name="toEntityId">Target entity ID</param>
+            <param name="maxPathLength">Maximum path length</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>All paths between the two entities</returns>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.GetBatchStatus(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Check batch processing status
+            </summary>
+            <param name="batchId">The batch identifier</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>Batch processing status with detailed results</returns>
+            <remarks>
+            Sample request:
+            
+                GET /api/v1/Query/batch/batch_123e4567-e89b-12d3-a456-426614174000/status
+            
+            Returns the current status of a batch processing operation including:
+            - Overall progress
+            - Individual document results
+            - Processing metrics
+            </remarks>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.GetBatches(System.String,System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Get all batches with optional filters
+            </summary>
+            <param name="status">Filter by status</param>
+            <param name="fromDate">Filter by creation date</param>
+            <param name="toDate">Filter by creation date</param>
+            <param name="page">Page number</param>
+            <param name="pageSize">Page size</param>
+            <param name="cancellationToken">Cancellation token</param>
+            <returns>List of batches matching criteria</returns>
+        </member>
+        <member name="M:WebAPI.Controllers.QueryController.GetMockBatchStatus(System.String)">
+            <summary>
+            Mock implementation for batch status - replace with actual repository call
+            </summary>
+        </member>
+        <member name="P:WebAPI.Models.UploadDocumentRequest.ExternalId">
+            <example>DOC-123</example>
+        </member>
+        <member name="P:WebAPI.Models.UploadDocumentRequest.Title">
+            <summary>Document title</summary>
+        </member>
+        <member name="P:WebAPI.Models.UploadDocumentRequest.Content">
+            <summary>Page content as text</summary>
+            <example>This document describes how to implement OAuth2 authentication...</example>
+        </member>
+        <member name="P:WebAPI.Models.UploadDocumentRequest.PageNumber">
+            <summary>Page number within the document</summary>
+            <example>1</example>
+        </member>
+        <member name="P:WebAPI.Models.UploadDocumentRequest.LastModified">
+            <summary>Last modified timestamp from source</summary>
+            <example>2024-01-15T14:30:00Z</example>
+        </member>
+        <member name="P:WebAPI.Models.UploadDocumentRequest.Metadata">
+            <summary>Additional metadata key-value pairs</summary>
+        </member>
+    </members>
+</doc>

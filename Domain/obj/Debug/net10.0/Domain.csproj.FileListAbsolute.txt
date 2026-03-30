@@ -1,0 +1,13 @@
+C:\c#Projects\DocumentationKG\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\c#Projects\DocumentationKG\Domain\bin\Debug\net10.0\Domain.dll
+C:\c#Projects\DocumentationKG\Domain\bin\Debug\net10.0\Domain.pdb
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\Domain.dll
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\Domain.pdb
+C:\c#Projects\DocumentationKG\Domain\obj\Debug\net10.0\ref\Domain.dll
